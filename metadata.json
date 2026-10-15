@@ -1,0 +1,6 @@
+{
+  "name": "بازار حمام التركمان",
+  "description": "منصة إعلانات مبوبة تفاعلية لأهالي حمام التركمان وتل أبيض، للبيع والشراء والخدمات والمفقودات مع تواصل فوري عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
